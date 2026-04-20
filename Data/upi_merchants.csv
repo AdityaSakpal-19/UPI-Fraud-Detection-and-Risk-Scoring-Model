@@ -1,0 +1,501 @@
+u,merchant_vpa,merchant_name,category,risk_level,kyc_status
+M1000,speedfuelpvt@upi,SpeedFuel Pvt,fuel,LOW,verified
+M1001,xtremegamingpvt@razorpay,XtremeGaming Pvt,gaming,MEDIUM,verified
+M1002,bitswapstore@razorpay,BitSwap Store,crypto,HIGH,verified
+M1003,petrolpointhub@easebuzz,PetrolPoint Hub,fuel,LOW,verified
+M1004,cricketbetsco@easebuzz,CricketBets Co,betting,HIGH,rejected
+M1005,cryptoedgepvt@paytm,CryptoEdge Pvt,crypto,HIGH,verified
+M1006,shadowmarthub@paytm,ShadowMart Hub,grocery,LOW,verified
+M1007,betmasterco@razorpay,BetMaster Co,betting,HIGH,verified
+M1008,offshorevaultpvt@paytm,OffshoreVault Pvt,crypto,HIGH,verified
+M1009,techworldindia@easebuzz,TechWorld India,electronics,MEDIUM,verified
+M1010,freshvegco@easebuzz,FreshVeg Co,grocery,LOW,verified
+M1011,offshorevaultpvt1@paytm,OffshoreVault Pvt,crypto,HIGH,rejected
+M1012,rapidbetindia@easebuzz,RapidBet India,betting,HIGH,verified
+M1013,oilstop90@paytm,OilStop 90,fuel,LOW,verified
+M1014,jetsetgo16@upi,JetSetGo 16,travel,LOW,verified
+M1015,cryptonowhub@easebuzz,CryptoNow Hub,crypto,HIGH,pending
+M1016,winnersbetonline@easebuzz,WinnersBet Online,betting,HIGH,rejected
+M1017,techworld96@easebuzz,TechWorld 96,electronics,MEDIUM,verified
+M1018,shopmartstore@easebuzz,ShopMart Store,grocery,LOW,verified
+M1019,speedfuel36@paytm,SpeedFuel 36,fuel,LOW,verified
+M1020,gadgetzonestore@razorpay,GadgetZone Store,electronics,MEDIUM,verified
+M1021,gamershubindia@upi,GamersHub India,gaming,MEDIUM,verified
+M1022,rapidbetpvt@upi,RapidBet Pvt,betting,HIGH,verified
+M1023,digitalmarthub@easebuzz,DigitalMart Hub,electronics,MEDIUM,verified
+M1024,cryptonowonline@easebuzz,CryptoNow Online,crypto,HIGH,rejected
+M1025,winnersbet@easebuzz,WinnersBet,betting,HIGH,pending
+M1026,digitalmartstore@easebuzz,DigitalMart Store,electronics,MEDIUM,pending
+M1027,anonpayco@easebuzz,AnonPay Co,crypto,HIGH,verified
+M1028,xtremegaming56@paytm,XtremeGaming 56,gaming,MEDIUM,verified
+M1029,cryptoedgeonline@upi,CryptoEdge Online,crypto,HIGH,rejected
+M1030,xtremegaming@easebuzz,XtremeGaming,gaming,MEDIUM,verified
+M1031,cryptonow@paytm,CryptoNow,crypto,HIGH,pending
+M1032,anonpay18@upi,AnonPay 18,crypto,HIGH,verified
+M1033,bookmyflighthub@upi,BookMyFlight Hub,travel,LOW,verified
+M1034,digitalmartonline@razorpay,DigitalMart Online,electronics,MEDIUM,pending
+M1035,rapidbetstore@paytm,RapidBet Store,betting,HIGH,pending
+M1036,xtremegaming@razorpay,XtremeGaming,gaming,MEDIUM,verified
+M1037,gadgetzone@paytm,GadgetZone,electronics,MEDIUM,rejected
+M1038,cricketbets@upi,CricketBets,betting,HIGH,verified
+M1039,anonpayindia@upi,AnonPay India,crypto,HIGH,pending
+M1040,speedfuelhub@upi,SpeedFuel Hub,fuel,LOW,verified
+M1041,quickbazaarindia@upi,QuickBazaar India,grocery,LOW,pending
+M1042,coindeal@razorpay,CoinDeal,crypto,HIGH,pending
+M1043,fastcash99online@upi,FastCash99 Online,betting,HIGH,verified
+M1044,techworldco@paytm,TechWorld Co,electronics,MEDIUM,verified
+M1045,quickbazaarindia@paytm,QuickBazaar India,grocery,LOW,verified
+M1046,xtremegaminghub@paytm,XtremeGaming Hub,gaming,MEDIUM,verified
+M1047,cricketbets@easebuzz,CricketBets,betting,HIGH,rejected
+M1048,gamershubonline@razorpay,GamersHub Online,gaming,MEDIUM,verified
+M1049,oilstoppvt@easebuzz,OilStop Pvt,fuel,LOW,verified
+M1050,cryptonowstore@easebuzz,CryptoNow Store,crypto,HIGH,pending
+M1051,gamershubstore@razorpay,GamersHub Store,gaming,MEDIUM,pending
+M1052,techworldstore@easebuzz,TechWorld Store,electronics,MEDIUM,verified
+M1053,offshorevaultonline@razorpay,OffshoreVault Online,crypto,HIGH,verified
+M1054,freshvegpvt@easebuzz,FreshVeg Pvt,grocery,LOW,verified
+M1055,freshveghub@razorpay,FreshVeg Hub,grocery,LOW,verified
+M1056,playzonestore@paytm,PlayZone Store,gaming,MEDIUM,verified
+M1057,bookmyflightindia@upi,BookMyFlight India,travel,LOW,verified
+M1058,betmasterco@easebuzz,BetMaster Co,betting,HIGH,pending
+M1059,offshorevault63@paytm,OffshoreVault 63,crypto,HIGH,verified
+M1060,playzoneonline@upi,PlayZone Online,gaming,MEDIUM,verified
+M1061,jetsetgohub@easebuzz,JetSetGo Hub,travel,LOW,verified
+M1062,jetsetgoonline@razorpay,JetSetGo Online,travel,LOW,verified
+M1063,techworldstore@razorpay,TechWorld Store,electronics,MEDIUM,verified
+M1064,coindealco@razorpay,CoinDeal Co,crypto,HIGH,verified
+M1065,leveluppvt@upi,LevelUp Pvt,gaming,MEDIUM,verified
+M1066,coindealstore@razorpay,CoinDeal Store,crypto,HIGH,rejected
+M1067,gamershubstore@upi,GamersHub Store,gaming,MEDIUM,verified
+M1068,jetsetgo@upi,JetSetGo,travel,LOW,verified
+M1069,betkingstore@upi,BetKing Store,betting,HIGH,pending
+M1070,levelup97@paytm,LevelUp 97,gaming,MEDIUM,pending
+M1071,digitalmartstore1@easebuzz,DigitalMart Store,electronics,MEDIUM,verified
+M1072,fastcash99pvt@paytm,FastCash99 Pvt,betting,HIGH,verified
+M1073,fastcash99india@paytm,FastCash99 India,betting,HIGH,pending
+M1074,fastcash99@upi,FastCash99,betting,HIGH,verified
+M1075,shopmartstore@paytm,ShopMart Store,grocery,LOW,rejected
+M1076,digitalmartonline@upi,DigitalMart Online,electronics,MEDIUM,pending
+M1077,bookmyflight49@easebuzz,BookMyFlight 49,travel,LOW,verified
+M1078,petrolpointonline@razorpay,PetrolPoint Online,fuel,LOW,verified
+M1079,cryptonowindia@upi,CryptoNow India,crypto,HIGH,pending
+M1080,bookmyflightindia1@upi,BookMyFlight India,travel,LOW,verified
+M1081,levelupindia@upi,LevelUp India,gaming,MEDIUM,verified
+M1082,playzone58@razorpay,PlayZone 58,gaming,MEDIUM,verified
+M1083,bitswapstore@easebuzz,BitSwap Store,crypto,HIGH,verified
+M1084,tripeasystore@upi,TripEasy Store,travel,LOW,verified
+M1085,oilstopco@upi,OilStop Co,fuel,LOW,pending
+M1086,offshorevaultindia@paytm,OffshoreVault India,crypto,HIGH,verified
+M1087,digitalmartstore2@easebuzz,DigitalMart Store,electronics,MEDIUM,verified
+M1088,cryptonowstore1@easebuzz,CryptoNow Store,crypto,HIGH,rejected
+M1089,shadowmart65@easebuzz,ShadowMart 65,grocery,LOW,verified
+M1090,gamershubonline1@razorpay,GamersHub Online,gaming,MEDIUM,verified
+M1091,coindealindia@upi,CoinDeal India,crypto,HIGH,rejected
+M1092,petrolpoint@razorpay,PetrolPoint,fuel,LOW,verified
+M1093,gamershubpvt@easebuzz,GamersHub Pvt,gaming,MEDIUM,verified
+M1094,shopmartstore@upi,ShopMart Store,grocery,LOW,rejected
+M1095,digitalmart56@paytm,DigitalMart 56,electronics,MEDIUM,verified
+M1096,winnersbethub@razorpay,WinnersBet Hub,betting,HIGH,rejected
+M1097,cricketbetshub@easebuzz,CricketBets Hub,betting,HIGH,rejected
+M1098,shopmartonline@paytm,ShopMart Online,grocery,LOW,verified
+M1099,oilstopstore@razorpay,OilStop Store,fuel,LOW,verified
+M1100,gamershubonline@paytm,GamersHub Online,gaming,MEDIUM,verified
+M1101,betmaster70@easebuzz,BetMaster 70,betting,HIGH,verified
+M1102,coindealhub@easebuzz,CoinDeal Hub,crypto,HIGH,pending
+M1103,bitswap@upi,BitSwap,crypto,HIGH,verified
+M1104,speedfuelstore@easebuzz,SpeedFuel Store,fuel,LOW,verified
+M1105,betkingindia@paytm,BetKing India,betting,HIGH,rejected
+M1106,tripeasyco@upi,TripEasy Co,travel,LOW,verified
+M1107,cryptoedgeonline@paytm,CryptoEdge Online,crypto,HIGH,verified
+M1108,gamershub15@paytm,GamersHub 15,gaming,MEDIUM,verified
+M1109,quickbazaar20@razorpay,QuickBazaar 20,grocery,LOW,verified
+M1110,techworldonline@easebuzz,TechWorld Online,electronics,MEDIUM,rejected
+M1111,xtremegaming32@upi,XtremeGaming 32,gaming,MEDIUM,verified
+M1112,petrolpointpvt@paytm,PetrolPoint Pvt,fuel,LOW,verified
+M1113,shopmarthub@razorpay,ShopMart Hub,grocery,LOW,verified
+M1114,cricketbetsstore@easebuzz,CricketBets Store,betting,HIGH,rejected
+M1115,rapidbet58@razorpay,RapidBet 58,betting,HIGH,pending
+M1116,speedfuelonline@easebuzz,SpeedFuel Online,fuel,LOW,pending
+M1117,bitswapco@easebuzz,BitSwap Co,crypto,HIGH,verified
+M1118,winnersbet@razorpay,WinnersBet,betting,HIGH,rejected
+M1119,freshvegonline@easebuzz,FreshVeg Online,grocery,LOW,rejected
+M1120,gamershubpvt1@easebuzz,GamersHub Pvt,gaming,MEDIUM,rejected
+M1121,betmasterhub@paytm,BetMaster Hub,betting,HIGH,rejected
+M1122,quickbazaarindia@easebuzz,QuickBazaar India,grocery,LOW,verified
+M1123,gadgetzoneonline@upi,GadgetZone Online,electronics,MEDIUM,verified
+M1124,bookmyflighthub@easebuzz,BookMyFlight Hub,travel,LOW,verified
+M1125,speedfuelonline@razorpay,SpeedFuel Online,fuel,LOW,verified
+M1126,playzone98@paytm,PlayZone 98,gaming,MEDIUM,verified
+M1127,winnersbetstore@upi,WinnersBet Store,betting,HIGH,rejected
+M1128,shopmartindia@paytm,ShopMart India,grocery,LOW,verified
+M1129,bitswapstore@paytm,BitSwap Store,crypto,HIGH,verified
+M1130,freshvegstore@razorpay,FreshVeg Store,grocery,LOW,verified
+M1131,betmasterco1@easebuzz,BetMaster Co,betting,HIGH,pending
+M1132,winnersbetpvt@upi,WinnersBet Pvt,betting,HIGH,verified
+M1133,shadowmartco@easebuzz,ShadowMart Co,grocery,LOW,pending
+M1134,winnersbetco@easebuzz,WinnersBet Co,betting,HIGH,pending
+M1135,freshvegstore@paytm,FreshVeg Store,grocery,LOW,verified
+M1136,fastcash99store@upi,FastCash99 Store,betting,HIGH,verified
+M1137,petrolpointstore@easebuzz,PetrolPoint Store,fuel,LOW,verified
+M1138,betkingstore1@upi,BetKing Store,betting,HIGH,rejected
+M1139,levelupindia1@upi,LevelUp India,gaming,MEDIUM,verified
+M1140,betmasterstore@razorpay,BetMaster Store,betting,HIGH,verified
+M1141,winnersbetonline@razorpay,WinnersBet Online,betting,HIGH,verified
+M1142,tripeasy@easebuzz,TripEasy,travel,LOW,verified
+M1143,levelupco@razorpay,LevelUp Co,gaming,MEDIUM,verified
+M1144,xtremegamingstore@upi,XtremeGaming Store,gaming,MEDIUM,verified
+M1145,tripeasy@razorpay,TripEasy,travel,LOW,verified
+M1146,offshorevaulthub@upi,OffshoreVault Hub,crypto,HIGH,verified
+M1147,bookmyflighthub1@easebuzz,BookMyFlight Hub,travel,LOW,verified
+M1148,quickbuckshub@razorpay,QuickBucks Hub,betting,HIGH,rejected
+M1149,levelup33@razorpay,LevelUp 33,gaming,MEDIUM,verified
+M1150,tripeasyindia@easebuzz,TripEasy India,travel,LOW,pending
+M1151,speedfuelco@easebuzz,SpeedFuel Co,fuel,LOW,pending
+M1152,rapidbethub@paytm,RapidBet Hub,betting,HIGH,rejected
+M1153,cryptonowstore@paytm,CryptoNow Store,crypto,HIGH,pending
+M1154,speedfuelstore1@easebuzz,SpeedFuel Store,fuel,LOW,verified
+M1155,freshvegindia@upi,FreshVeg India,grocery,LOW,verified
+M1156,rapidbethub@upi,RapidBet Hub,betting,HIGH,pending
+M1157,quickbucks82@razorpay,QuickBucks 82,betting,HIGH,pending
+M1158,shadowmartpvt@paytm,ShadowMart Pvt,grocery,LOW,pending
+M1159,rapidbet39@paytm,RapidBet 39,betting,HIGH,verified
+M1160,betkingpvt@easebuzz,BetKing Pvt,betting,HIGH,pending
+M1161,techworldonline@upi,TechWorld Online,electronics,MEDIUM,pending
+M1162,digitalmartindia@easebuzz,DigitalMart India,electronics,MEDIUM,verified
+M1163,levelup@razorpay,LevelUp,gaming,MEDIUM,verified
+M1164,levelupco1@razorpay,LevelUp Co,gaming,MEDIUM,verified
+M1165,winnersbethub1@razorpay,WinnersBet Hub,betting,HIGH,verified
+M1166,freshvegco@paytm,FreshVeg Co,grocery,LOW,pending
+M1167,cryptonowindia1@upi,CryptoNow India,crypto,HIGH,pending
+M1168,freshveg@paytm,FreshVeg,grocery,LOW,verified
+M1169,jetsetgopvt@upi,JetSetGo Pvt,travel,LOW,verified
+M1170,betmasterco@upi,BetMaster Co,betting,HIGH,rejected
+M1171,shopmarthub@upi,ShopMart Hub,grocery,LOW,verified
+M1172,playzone@razorpay,PlayZone,gaming,MEDIUM,pending
+M1173,leveluppvt@razorpay,LevelUp Pvt,gaming,MEDIUM,pending
+M1174,shopmart@upi,ShopMart,grocery,LOW,verified
+M1175,playzonehub@paytm,PlayZone Hub,gaming,MEDIUM,verified
+M1176,shadowmartpvt@easebuzz,ShadowMart Pvt,grocery,LOW,verified
+M1177,coindealindia@easebuzz,CoinDeal India,crypto,HIGH,pending
+M1178,coindealindia1@easebuzz,CoinDeal India,crypto,HIGH,pending
+M1179,rapidbet@razorpay,RapidBet,betting,HIGH,pending
+M1180,offshorevault@easebuzz,OffshoreVault,crypto,HIGH,rejected
+M1181,shopmartindia@easebuzz,ShopMart India,grocery,LOW,verified
+M1182,techworldindia@paytm,TechWorld India,electronics,MEDIUM,verified
+M1183,speedfuelindia@upi,SpeedFuel India,fuel,LOW,verified
+M1184,bitswaphub@easebuzz,BitSwap Hub,crypto,HIGH,rejected
+M1185,anonpaystore@easebuzz,AnonPay Store,crypto,HIGH,pending
+M1186,quickbazaarindia1@paytm,QuickBazaar India,grocery,LOW,verified
+M1187,jetsetgoco@easebuzz,JetSetGo Co,travel,LOW,verified
+M1188,cricketbetsonline@razorpay,CricketBets Online,betting,HIGH,rejected
+M1189,tripeasyonline@paytm,TripEasy Online,travel,LOW,verified
+M1190,digitalmartstore@razorpay,DigitalMart Store,electronics,MEDIUM,rejected
+M1191,fastcash9988@paytm,FastCash99 88,betting,HIGH,verified
+M1192,offshorevaultindia@easebuzz,OffshoreVault India,crypto,HIGH,verified
+M1193,playzonehub@upi,PlayZone Hub,gaming,MEDIUM,verified
+M1194,playzonehub1@paytm,PlayZone Hub,gaming,MEDIUM,verified
+M1195,shadowmartonline@paytm,ShadowMart Online,grocery,LOW,pending
+M1196,shadowmartstore@razorpay,ShadowMart Store,grocery,LOW,verified
+M1197,bitswapco@upi,BitSwap Co,crypto,HIGH,rejected
+M1198,cricketbetsindia@razorpay,CricketBets India,betting,HIGH,rejected
+M1199,quickbucksindia@razorpay,QuickBucks India,betting,HIGH,pending
+M1200,betmaster@razorpay,BetMaster,betting,HIGH,verified
+M1201,digitalmartstore1@razorpay,DigitalMart Store,electronics,MEDIUM,verified
+M1202,leveluppvt@easebuzz,LevelUp Pvt,gaming,MEDIUM,verified
+M1203,shadowmart@paytm,ShadowMart,grocery,LOW,verified
+M1204,bookmyflightonline@easebuzz,BookMyFlight Online,travel,LOW,verified
+M1205,winnersbethub2@razorpay,WinnersBet Hub,betting,HIGH,rejected
+M1206,petrolpointindia@paytm,PetrolPoint India,fuel,LOW,verified
+M1207,gadgetzone1@paytm,GadgetZone,electronics,MEDIUM,verified
+M1208,cryptoedgeonline@easebuzz,CryptoEdge Online,crypto,HIGH,pending
+M1209,jetsetgostore@upi,JetSetGo Store,travel,LOW,verified
+M1210,cricketbetshub1@easebuzz,CricketBets Hub,betting,HIGH,verified
+M1211,betmaster87@razorpay,BetMaster 87,betting,HIGH,verified
+M1212,cryptonow1@paytm,CryptoNow,crypto,HIGH,verified
+M1213,cryptoedgepvt@razorpay,CryptoEdge Pvt,crypto,HIGH,verified
+M1214,digitalmart@easebuzz,DigitalMart,electronics,MEDIUM,verified
+M1215,jetsetgopvt@easebuzz,JetSetGo Pvt,travel,LOW,verified
+M1216,playzonehub2@paytm,PlayZone Hub,gaming,MEDIUM,verified
+M1217,shadowmart@easebuzz,ShadowMart,grocery,LOW,verified
+M1218,digitalmarthub1@easebuzz,DigitalMart Hub,electronics,MEDIUM,verified
+M1219,xtremegamingonline@razorpay,XtremeGaming Online,gaming,MEDIUM,verified
+M1220,coindealhub@upi,CoinDeal Hub,crypto,HIGH,rejected
+M1221,bookmyflight80@razorpay,BookMyFlight 80,travel,LOW,verified
+M1222,gamershubco@easebuzz,GamersHub Co,gaming,MEDIUM,verified
+M1223,gadgetzoneindia@easebuzz,GadgetZone India,electronics,MEDIUM,pending
+M1224,betkinghub@upi,BetKing Hub,betting,HIGH,pending
+M1225,quickbucksindia@paytm,QuickBucks India,betting,HIGH,pending
+M1226,xtremegaminghub@razorpay,XtremeGaming Hub,gaming,MEDIUM,verified
+M1227,rapidbetpvt1@upi,RapidBet Pvt,betting,HIGH,verified
+M1228,speedfuelco@upi,SpeedFuel Co,fuel,LOW,verified
+M1229,jetsetgoindia@upi,JetSetGo India,travel,LOW,pending
+M1230,gadgetzone81@easebuzz,GadgetZone 81,electronics,MEDIUM,pending
+M1231,cryptoedge98@razorpay,CryptoEdge 98,crypto,HIGH,rejected
+M1232,fastcash99hub@upi,FastCash99 Hub,betting,HIGH,pending
+M1233,xtremegaming61@razorpay,XtremeGaming 61,gaming,MEDIUM,pending
+M1234,cryptoedge@razorpay,CryptoEdge,crypto,HIGH,pending
+M1235,quickbucks40@easebuzz,QuickBucks 40,betting,HIGH,verified
+M1236,bookmyflightstore@paytm,BookMyFlight Store,travel,LOW,verified
+M1237,tripeasyonline@easebuzz,TripEasy Online,travel,LOW,verified
+M1238,betking@easebuzz,BetKing,betting,HIGH,rejected
+M1239,playzoneco@razorpay,PlayZone Co,gaming,MEDIUM,verified
+M1240,cryptoedgepvt1@paytm,CryptoEdge Pvt,crypto,HIGH,pending
+M1241,playzoneindia@upi,PlayZone India,gaming,MEDIUM,verified
+M1242,gamershub91@easebuzz,GamersHub 91,gaming,MEDIUM,verified
+M1243,gamershubpvt@razorpay,GamersHub Pvt,gaming,MEDIUM,verified
+M1244,anonpayonline@easebuzz,AnonPay Online,crypto,HIGH,rejected
+M1245,cricketbets@razorpay,CricketBets,betting,HIGH,verified
+M1246,quickbazaaronline@razorpay,QuickBazaar Online,grocery,LOW,verified
+M1247,betkingpvt@razorpay,BetKing Pvt,betting,HIGH,verified
+M1248,offshorevaultpvt@razorpay,OffshoreVault Pvt,crypto,HIGH,pending
+M1249,fastcash99online1@upi,FastCash99 Online,betting,HIGH,pending
+M1250,cryptonowstore2@easebuzz,CryptoNow Store,crypto,HIGH,pending
+M1251,shopmartpvt@paytm,ShopMart Pvt,grocery,LOW,verified
+M1252,gadgetzonehub@paytm,GadgetZone Hub,electronics,MEDIUM,verified
+M1253,cryptonowco@razorpay,CryptoNow Co,crypto,HIGH,rejected
+M1254,rapidbetco@upi,RapidBet Co,betting,HIGH,rejected
+M1255,betmasterindia@razorpay,BetMaster India,betting,HIGH,rejected
+M1256,gadgetzone@razorpay,GadgetZone,electronics,MEDIUM,pending
+M1257,cryptoedgepvt@easebuzz,CryptoEdge Pvt,crypto,HIGH,verified
+M1258,bookmyflightpvt@easebuzz,BookMyFlight Pvt,travel,LOW,verified
+M1259,playzoneco@easebuzz,PlayZone Co,gaming,MEDIUM,verified
+M1260,digitalmart97@upi,DigitalMart 97,electronics,MEDIUM,verified
+M1261,xtremegaming40@upi,XtremeGaming 40,gaming,MEDIUM,verified
+M1262,rapidbet74@easebuzz,RapidBet 74,betting,HIGH,rejected
+M1263,fastcash99online2@upi,FastCash99 Online,betting,HIGH,rejected
+M1264,petrolpointpvt@razorpay,PetrolPoint Pvt,fuel,LOW,verified
+M1265,betkinghub@paytm,BetKing Hub,betting,HIGH,rejected
+M1266,anonpayindia@razorpay,AnonPay India,crypto,HIGH,verified
+M1267,tripeasystore@easebuzz,TripEasy Store,travel,LOW,pending
+M1268,speedfuelonline@paytm,SpeedFuel Online,fuel,LOW,pending
+M1269,petrolpoint29@razorpay,PetrolPoint 29,fuel,LOW,pending
+M1270,gadgetzone@easebuzz,GadgetZone,electronics,MEDIUM,verified
+M1271,shadowmartonline1@paytm,ShadowMart Online,grocery,LOW,verified
+M1272,gadgetzonehub1@paytm,GadgetZone Hub,electronics,MEDIUM,pending
+M1273,xtremegaminghub@upi,XtremeGaming Hub,gaming,MEDIUM,verified
+M1274,quickbazaar37@upi,QuickBazaar 37,grocery,LOW,verified
+M1275,bookmyflight61@paytm,BookMyFlight 61,travel,LOW,pending
+M1276,coindealstore@upi,CoinDeal Store,crypto,HIGH,rejected
+M1277,anonpayonline@paytm,AnonPay Online,crypto,HIGH,rejected
+M1278,shopmartstore1@paytm,ShopMart Store,grocery,LOW,verified
+M1279,anonpay54@paytm,AnonPay 54,crypto,HIGH,verified
+M1280,cryptonow@upi,CryptoNow,crypto,HIGH,rejected
+M1281,freshvegonline@paytm,FreshVeg Online,grocery,LOW,verified
+M1282,rapidbetonline@upi,RapidBet Online,betting,HIGH,rejected
+M1283,jetsetgohub@paytm,JetSetGo Hub,travel,LOW,pending
+M1284,gadgetzone1@easebuzz,GadgetZone,electronics,MEDIUM,pending
+M1285,cryptoedgeonline@razorpay,CryptoEdge Online,crypto,HIGH,verified
+M1286,jetsetgohub1@paytm,JetSetGo Hub,travel,LOW,verified
+M1287,speedfuelindia@razorpay,SpeedFuel India,fuel,LOW,verified
+M1288,freshveghub@upi,FreshVeg Hub,grocery,LOW,verified
+M1289,gadgetzone88@easebuzz,GadgetZone 88,electronics,MEDIUM,verified
+M1290,quickbucksindia@easebuzz,QuickBucks India,betting,HIGH,verified
+M1291,tripeasy@upi,TripEasy,travel,LOW,verified
+M1292,quickbazaarstore@easebuzz,QuickBazaar Store,grocery,LOW,rejected
+M1293,tripeasy70@razorpay,TripEasy 70,travel,LOW,verified
+M1294,quickbazaarco@razorpay,QuickBazaar Co,grocery,LOW,verified
+M1295,fastcash99hub@razorpay,FastCash99 Hub,betting,HIGH,verified
+M1296,freshvegonline1@easebuzz,FreshVeg Online,grocery,LOW,verified
+M1297,tripeasyhub@upi,TripEasy Hub,travel,LOW,verified
+M1298,techworldhub@razorpay,TechWorld Hub,electronics,MEDIUM,pending
+M1299,speedfuelonline1@paytm,SpeedFuel Online,fuel,LOW,verified
+M1300,tripeasystore@razorpay,TripEasy Store,travel,LOW,verified
+M1301,tripeasystore1@razorpay,TripEasy Store,travel,LOW,verified
+M1302,oilstoponline@upi,OilStop Online,fuel,LOW,verified
+M1303,petrolpoint45@paytm,PetrolPoint 45,fuel,LOW,verified
+M1304,cryptonowonline@razorpay,CryptoNow Online,crypto,HIGH,pending
+M1305,digitalmartindia1@easebuzz,DigitalMart India,electronics,MEDIUM,verified
+M1306,coindealpvt@paytm,CoinDeal Pvt,crypto,HIGH,verified
+M1307,jetsetgo78@paytm,JetSetGo 78,travel,LOW,verified
+M1308,quickbazaarhub@razorpay,QuickBazaar Hub,grocery,LOW,verified
+M1309,winnersbet@upi,WinnersBet,betting,HIGH,rejected
+M1310,fastcash99hub@easebuzz,FastCash99 Hub,betting,HIGH,rejected
+M1311,cryptoedgepvt1@razorpay,CryptoEdge Pvt,crypto,HIGH,pending
+M1312,shadowmartstore@upi,ShadowMart Store,grocery,LOW,pending
+M1313,offshorevaultpvt@easebuzz,OffshoreVault Pvt,crypto,HIGH,pending
+M1314,quickbazaarindia@razorpay,QuickBazaar India,grocery,LOW,verified
+M1315,offshorevault91@upi,OffshoreVault 91,crypto,HIGH,rejected
+M1316,anonpay37@upi,AnonPay 37,crypto,HIGH,verified
+M1317,coindeal10@upi,CoinDeal 10,crypto,HIGH,rejected
+M1318,fastcash99india@razorpay,FastCash99 India,betting,HIGH,rejected
+M1319,coindealindia@razorpay,CoinDeal India,crypto,HIGH,rejected
+M1320,petrolpointpvt1@razorpay,PetrolPoint Pvt,fuel,LOW,verified
+M1321,cryptonowco@upi,CryptoNow Co,crypto,HIGH,verified
+M1322,offshorevault@razorpay,OffshoreVault,crypto,HIGH,pending
+M1323,freshveg48@upi,FreshVeg 48,grocery,LOW,verified
+M1324,shopmartindia@razorpay,ShopMart India,grocery,LOW,verified
+M1325,winnersbet92@easebuzz,WinnersBet 92,betting,HIGH,rejected
+M1326,fastcash99india@upi,FastCash99 India,betting,HIGH,rejected
+M1327,shadowmartindia@easebuzz,ShadowMart India,grocery,LOW,verified
+M1328,anonpayhub@upi,AnonPay Hub,crypto,HIGH,rejected
+M1329,rapidbetpvt2@upi,RapidBet Pvt,betting,HIGH,pending
+M1330,petrolpointindia@upi,PetrolPoint India,fuel,LOW,verified
+M1331,oilstophub@upi,OilStop Hub,fuel,LOW,verified
+M1332,speedfuelstore@paytm,SpeedFuel Store,fuel,LOW,verified
+M1333,freshvegstore@upi,FreshVeg Store,grocery,LOW,verified
+M1334,quickbazaarindia1@upi,QuickBazaar India,grocery,LOW,verified
+M1335,digitalmartpvt@upi,DigitalMart Pvt,electronics,MEDIUM,verified
+M1336,bitswaphub@paytm,BitSwap Hub,crypto,HIGH,rejected
+M1337,shadowmartindia@paytm,ShadowMart India,grocery,LOW,pending
+M1338,oilstopstore@upi,OilStop Store,fuel,LOW,verified
+M1339,petrolpoint@easebuzz,PetrolPoint,fuel,LOW,verified
+M1340,betmasterstore1@razorpay,BetMaster Store,betting,HIGH,pending
+M1341,freshvegonline@razorpay,FreshVeg Online,grocery,LOW,verified
+M1342,gadgetzone@upi,GadgetZone,electronics,MEDIUM,verified
+M1343,bitswap62@upi,BitSwap 62,crypto,HIGH,pending
+M1344,cricketbetshub@razorpay,CricketBets Hub,betting,HIGH,rejected
+M1345,betkingonline@upi,BetKing Online,betting,HIGH,rejected
+M1346,xtremegamingindia@razorpay,XtremeGaming India,gaming,MEDIUM,verified
+M1347,gamershubstore@easebuzz,GamersHub Store,gaming,MEDIUM,verified
+M1348,techworld@razorpay,TechWorld,electronics,MEDIUM,rejected
+M1349,shopmartonline@upi,ShopMart Online,grocery,LOW,pending
+M1350,quickbazaarhub1@razorpay,QuickBazaar Hub,grocery,LOW,verified
+M1351,techworld21@easebuzz,TechWorld 21,electronics,MEDIUM,verified
+M1352,quickbucks40@paytm,QuickBucks 40,betting,HIGH,verified
+M1353,cricketbets51@upi,CricketBets 51,betting,HIGH,verified
+M1354,speedfuel@paytm,SpeedFuel,fuel,LOW,verified
+M1355,cricketbets77@razorpay,CricketBets 77,betting,HIGH,pending
+M1356,speedfuelonline@upi,SpeedFuel Online,fuel,LOW,verified
+M1357,freshveghub@easebuzz,FreshVeg Hub,grocery,LOW,verified
+M1358,anonpay@upi,AnonPay,crypto,HIGH,pending
+M1359,freshvegindia@easebuzz,FreshVeg India,grocery,LOW,verified
+M1360,bookmyflightstore1@paytm,BookMyFlight Store,travel,LOW,verified
+M1361,anonpayonline@razorpay,AnonPay Online,crypto,HIGH,rejected
+M1362,tripeasyhub1@upi,TripEasy Hub,travel,LOW,verified
+M1363,quickbazaaronline@paytm,QuickBazaar Online,grocery,LOW,verified
+M1364,playzonehub@easebuzz,PlayZone Hub,gaming,MEDIUM,verified
+M1365,tripeasypvt@razorpay,TripEasy Pvt,travel,LOW,pending
+M1366,quickbazaarpvt@easebuzz,QuickBazaar Pvt,grocery,LOW,rejected
+M1367,jetsetgostore@razorpay,JetSetGo Store,travel,LOW,verified
+M1368,bookmyflight66@razorpay,BookMyFlight 66,travel,LOW,verified
+M1369,cryptonowhub@razorpay,CryptoNow Hub,crypto,HIGH,rejected
+M1370,cricketbetsstore@paytm,CricketBets Store,betting,HIGH,pending
+M1371,rapidbetco@paytm,RapidBet Co,betting,HIGH,pending
+M1372,anonpayonline@upi,AnonPay Online,crypto,HIGH,rejected
+M1373,cryptoedge@paytm,CryptoEdge,crypto,HIGH,verified
+M1374,winnersbethub@easebuzz,WinnersBet Hub,betting,HIGH,verified
+M1375,levelupco@easebuzz,LevelUp Co,gaming,MEDIUM,verified
+M1376,gadgetzone79@paytm,GadgetZone 79,electronics,MEDIUM,verified
+M1377,cryptoedgeco@razorpay,CryptoEdge Co,crypto,HIGH,rejected
+M1378,betkingonline@razorpay,BetKing Online,betting,HIGH,rejected
+M1379,quickbazaarhub2@razorpay,QuickBazaar Hub,grocery,LOW,verified
+M1380,oilstopstore@easebuzz,OilStop Store,fuel,LOW,verified
+M1381,bitswapstore1@razorpay,BitSwap Store,crypto,HIGH,verified
+M1382,digitalmartstore@upi,DigitalMart Store,electronics,MEDIUM,verified
+M1383,shopmarthub@easebuzz,ShopMart Hub,grocery,LOW,verified
+M1384,betmasterstore2@razorpay,BetMaster Store,betting,HIGH,verified
+M1385,betmasteronline@easebuzz,BetMaster Online,betting,HIGH,rejected
+M1386,gamershubpvt1@razorpay,GamersHub Pvt,gaming,MEDIUM,verified
+M1387,levelupindia@razorpay,LevelUp India,gaming,MEDIUM,pending
+M1388,bookmyflightstore@easebuzz,BookMyFlight Store,travel,LOW,verified
+M1389,oilstopstore1@razorpay,OilStop Store,fuel,LOW,verified
+M1390,techworldco@upi,TechWorld Co,electronics,MEDIUM,verified
+M1391,oilstopco1@upi,OilStop Co,fuel,LOW,verified
+M1392,offshorevaulthub@easebuzz,OffshoreVault Hub,crypto,HIGH,verified
+M1393,betkingpvt@paytm,BetKing Pvt,betting,HIGH,rejected
+M1394,jetsetgoonline@easebuzz,JetSetGo Online,travel,LOW,verified
+M1395,xtremegamingstore@razorpay,XtremeGaming Store,gaming,MEDIUM,verified
+M1396,anonpayindia1@upi,AnonPay India,crypto,HIGH,pending
+M1397,xtremegaming@upi,XtremeGaming,gaming,MEDIUM,verified
+M1398,playzone@easebuzz,PlayZone,gaming,MEDIUM,pending
+M1399,cryptonowstore1@paytm,CryptoNow Store,crypto,HIGH,verified
+M1400,bookmyflightindia@razorpay,BookMyFlight India,travel,LOW,verified
+M1401,winnersbet83@upi,WinnersBet 83,betting,HIGH,rejected
+M1402,techworldstore@upi,TechWorld Store,electronics,MEDIUM,pending
+M1403,oilstoppvt1@easebuzz,OilStop Pvt,fuel,LOW,verified
+M1404,anonpaypvt@paytm,AnonPay Pvt,crypto,HIGH,rejected
+M1405,cryptoedgeco@upi,CryptoEdge Co,crypto,HIGH,pending
+M1406,betkingonline@easebuzz,BetKing Online,betting,HIGH,pending
+M1407,betmasteronline@paytm,BetMaster Online,betting,HIGH,verified
+M1408,quickbucks18@razorpay,QuickBucks 18,betting,HIGH,rejected
+M1409,coindealstore@easebuzz,CoinDeal Store,crypto,HIGH,verified
+M1410,oilstopstore2@razorpay,OilStop Store,fuel,LOW,verified
+M1411,levelup1@razorpay,LevelUp,gaming,MEDIUM,verified
+M1412,offshorevaultco@paytm,OffshoreVault Co,crypto,HIGH,rejected
+M1413,techworldstore1@upi,TechWorld Store,electronics,MEDIUM,verified
+M1414,cricketbetsstore1@paytm,CricketBets Store,betting,HIGH,pending
+M1415,quickbuckshub@upi,QuickBucks Hub,betting,HIGH,verified
+M1416,bitswap18@upi,BitSwap 18,crypto,HIGH,pending
+M1417,anonpayhub@easebuzz,AnonPay Hub,crypto,HIGH,rejected
+M1418,betmasterco1@upi,BetMaster Co,betting,HIGH,rejected
+M1419,quickbucksindia1@easebuzz,QuickBucks India,betting,HIGH,pending
+M1420,gamershubindia@paytm,GamersHub India,gaming,MEDIUM,verified
+M1421,oilstopco2@upi,OilStop Co,fuel,LOW,verified
+M1422,techworld67@paytm,TechWorld 67,electronics,MEDIUM,verified
+M1423,winnersbet92@paytm,WinnersBet 92,betting,HIGH,rejected
+M1424,gadgetzone2@easebuzz,GadgetZone,electronics,MEDIUM,verified
+M1425,bookmyflight54@paytm,BookMyFlight 54,travel,LOW,verified
+M1426,jetsetgostore@paytm,JetSetGo Store,travel,LOW,verified
+M1427,petrolpointco@paytm,PetrolPoint Co,fuel,LOW,verified
+M1428,levelupindia@paytm,LevelUp India,gaming,MEDIUM,rejected
+M1429,shadowmart9@paytm,ShadowMart 9,grocery,LOW,verified
+M1430,cricketbetspvt@easebuzz,CricketBets Pvt,betting,HIGH,pending
+M1431,quickbucks49@easebuzz,QuickBucks 49,betting,HIGH,pending
+M1432,playzonepvt@razorpay,PlayZone Pvt,gaming,MEDIUM,verified
+M1433,shopmartonline1@upi,ShopMart Online,grocery,LOW,verified
+M1434,rapidbet@paytm,RapidBet,betting,HIGH,rejected
+M1435,cryptoedgeonline1@easebuzz,CryptoEdge Online,crypto,HIGH,rejected
+M1436,gadgetzone32@razorpay,GadgetZone 32,electronics,MEDIUM,verified
+M1437,petrolpointindia1@paytm,PetrolPoint India,fuel,LOW,verified
+M1438,cricketbets1@upi,CricketBets,betting,HIGH,verified
+M1439,playzone1@easebuzz,PlayZone,gaming,MEDIUM,verified
+M1440,bookmyflight@upi,BookMyFlight,travel,LOW,verified
+M1441,quickbucks52@upi,QuickBucks 52,betting,HIGH,pending
+M1442,gamershub@upi,GamersHub,gaming,MEDIUM,verified
+M1443,quickbucksco@razorpay,QuickBucks Co,betting,HIGH,pending
+M1444,rapidbethub1@upi,RapidBet Hub,betting,HIGH,pending
+M1445,jetsetgoco1@easebuzz,JetSetGo Co,travel,LOW,verified
+M1446,bookmyflightpvt1@easebuzz,BookMyFlight Pvt,travel,LOW,verified
+M1447,xtremegaminghub@easebuzz,XtremeGaming Hub,gaming,MEDIUM,pending
+M1448,coindealonline@easebuzz,CoinDeal Online,crypto,HIGH,verified
+M1449,oilstoppvt2@easebuzz,OilStop Pvt,fuel,LOW,verified
+M1450,tripeasystore1@upi,TripEasy Store,travel,LOW,verified
+M1451,petrolpointonline@easebuzz,PetrolPoint Online,fuel,LOW,verified
+M1452,rapidbetonline1@upi,RapidBet Online,betting,HIGH,verified
+M1453,levelupindia@easebuzz,LevelUp India,gaming,MEDIUM,pending
+M1454,cricketbetsco@paytm,CricketBets Co,betting,HIGH,verified
+M1455,techworld@paytm,TechWorld,electronics,MEDIUM,verified
+M1456,quickbazaarco@easebuzz,QuickBazaar Co,grocery,LOW,verified
+M1457,tripeasystore@paytm,TripEasy Store,travel,LOW,verified
+M1458,betmasterindia@easebuzz,BetMaster India,betting,HIGH,rejected
+M1459,playzoneco1@easebuzz,PlayZone Co,gaming,MEDIUM,pending
+M1460,bitswaphub@razorpay,BitSwap Hub,crypto,HIGH,pending
+M1461,leveluphub@razorpay,LevelUp Hub,gaming,MEDIUM,verified
+M1462,quickbazaar66@easebuzz,QuickBazaar 66,grocery,LOW,verified
+M1463,betking93@razorpay,BetKing 93,betting,HIGH,rejected
+M1464,fastcash99hub1@easebuzz,FastCash99 Hub,betting,HIGH,verified
+M1465,techworldpvt@paytm,TechWorld Pvt,electronics,MEDIUM,verified
+M1466,gadgetzoneonline@razorpay,GadgetZone Online,electronics,MEDIUM,verified
+M1467,shadowmartco1@easebuzz,ShadowMart Co,grocery,LOW,verified
+M1468,quickbucks32@razorpay,QuickBucks 32,betting,HIGH,verified
+M1469,anonpay63@easebuzz,AnonPay 63,crypto,HIGH,verified
+M1470,cryptoedgepvt@upi,CryptoEdge Pvt,crypto,HIGH,rejected
+M1471,offshorevaultpvt2@paytm,OffshoreVault Pvt,crypto,HIGH,pending
+M1472,fastcash99@paytm,FastCash99,betting,HIGH,pending
+M1473,betmasterco@paytm,BetMaster Co,betting,HIGH,rejected
+M1474,levelupco1@easebuzz,LevelUp Co,gaming,MEDIUM,verified
+M1475,bitswap80@easebuzz,BitSwap 80,crypto,HIGH,verified
+M1476,cryptoedgeonline1@paytm,CryptoEdge Online,crypto,HIGH,verified
+M1477,oilstopstore3@razorpay,OilStop Store,fuel,LOW,verified
+M1478,xtremegamingonline@upi,XtremeGaming Online,gaming,MEDIUM,verified
+M1479,digitalmartpvt1@upi,DigitalMart Pvt,electronics,MEDIUM,verified
+M1480,fastcash99store@razorpay,FastCash99 Store,betting,HIGH,verified
+M1481,oilstopindia@razorpay,OilStop India,fuel,LOW,pending
+M1482,shopmartco@upi,ShopMart Co,grocery,LOW,verified
+M1483,digitalmart@paytm,DigitalMart,electronics,MEDIUM,verified
+M1484,shadowmart49@paytm,ShadowMart 49,grocery,LOW,verified
+M1485,oilstoppvt@paytm,OilStop Pvt,fuel,LOW,verified
+M1486,offshorevaulthub@paytm,OffshoreVault Hub,crypto,HIGH,rejected
+M1487,petrolpointco@upi,PetrolPoint Co,fuel,LOW,pending
+M1488,playzone89@razorpay,PlayZone 89,gaming,MEDIUM,verified
+M1489,offshorevaultstore@paytm,OffshoreVault Store,crypto,HIGH,verified
+M1490,speedfuel@upi,SpeedFuel,fuel,LOW,verified
+M1491,shopmartonline1@paytm,ShopMart Online,grocery,LOW,verified
+M1492,cryptonowco@easebuzz,CryptoNow Co,crypto,HIGH,rejected
+M1493,winnersbethub1@easebuzz,WinnersBet Hub,betting,HIGH,rejected
+M1494,bitswapindia@razorpay,BitSwap India,crypto,HIGH,verified
+M1495,quickbucksco@paytm,QuickBucks Co,betting,HIGH,pending
+M1496,petrolpointonline1@razorpay,PetrolPoint Online,fuel,LOW,verified
+M1497,speedfuel35@easebuzz,SpeedFuel 35,fuel,LOW,verified
+M1498,shadowmartonline@easebuzz,ShadowMart Online,grocery,LOW,verified
+M1499,bitswaponline@paytm,BitSwap Online,crypto,HIGH,rejected
